@@ -1,0 +1,5 @@
+/workspace/andromeda2075_comandos/build/CMakeFiles/main.dir
+/workspace/andromeda2075_comandos/build/CMakeFiles/punteros.dir
+/workspace/andromeda2075_comandos/build/CMakeFiles/aut.dir
+/workspace/andromeda2075_comandos/build/CMakeFiles/edit_cache.dir
+/workspace/andromeda2075_comandos/build/CMakeFiles/rebuild_cache.dir
